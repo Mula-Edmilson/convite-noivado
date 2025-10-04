@@ -1,8 +1,8 @@
 /* style.css */
 .monogram-visual {
     /* Defina o tamanho do contêiner onde a imagem ficará */
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     /* Adicione estas propriedades para ajudar a centralizar ou gerenciar a imagem */
     display: flex; /* Permite centralizar a imagem dentro dele */
     justify-content: center; /* Centraliza horizontalmente */
